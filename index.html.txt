@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <title>GAME 601 Portfolio (Fall 2019)</title>
   <meta name="description" content="What I made in GAME 601 (Game Programming) at American University in Fall 2019">
-  <meta name="author" content="YOUR NAME">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <meta name="author" content="Tianyue Wang (Jerome)">
+  <link rel="stylesheet" href="https://jerome-wty.github.io/game601-fall2019/"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <body>
@@ -15,30 +15,30 @@
     <p class="lead">My games from GAME 601 - Game Prototyping at American University in Fall 2019</p>
   </div>
   <div class="card">
-    <div class="card-header h3">Game Modification: YOUR TITLE HERE</div>
+    <div class="card-header h3">Game Modification: The number guessing</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="./YOUR_IMAGE_FILENAME">
+        <img class="img-fluid" src="number.jpg">
       </div>
       <div class="col-6">
         REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./LINK_TO_YOUR_PLAYABLE_GAME_OR_RULES_FOR_YOUR_GAME" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://jerome-wty.github.io/game601-fall2019/The number guessing game/" role="button">PLAY</a>
       </div>
     </div>
   </div>
   <div class="card">
-    <div class="card-header h3">(Midterm) Non-Digital Game: YOUR TITLE HERE</div>
+    <div class="card-header h3">(Midterm) Non-Digital Game: Create the Empire</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="./YOUR_IMAGE_FILENAME">
+        <img class="img-fluid" src="midterm.jpg">
       </div>
       <div class="col-6">
         REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./LINK_TO_YOUR_PLAYABLE_GAME_OR_RULES_FOR_YOUR_GAME" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://jerome-wty.github.io/game601-fall2019/Create the Empire/">PLAY</a>
       </div>
     </div>
   </div>
@@ -52,21 +52,21 @@
         REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./LINK_TO_YOUR_PLAYABLE_GAME_OR_RULES_FOR_YOUR_GAME" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://jerome-wty.github.io/game601-fall2019/" role="button">PLAY</a>
       </div>
     </div>
   </div>
   <div class="card">
-    <div class="card-header h3">(Final) Digital Game: YOUR TITLE HERE</div>
+    <div class="card-header h3">(Final) Digital Game: Island Survival</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="./YOUR_IMAGE_FILENAME">
+        <img class="img-fluid" src="island survival.jpg">
       </div>
       <div class="col-6">
         REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./LINK_TO_YOUR_PLAYABLE_GAME_OR_RULES_FOR_YOUR_GAME" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://jerome-wty.github.io/game601-fall2019/Island Survival/" role="button">PLAY</a>
       </div>
     </div>
   </div>
